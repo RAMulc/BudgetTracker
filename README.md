@@ -1,4 +1,4 @@
-# Budget Tracker
+# A PWA Budget Tracker
 An Online/Offline Budget Tracker giving users a fast and easy way to track their money, allowing them to access the information anytime.
 
 ---------------
